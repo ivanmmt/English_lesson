@@ -17,7 +17,7 @@ namespace WinFormsApp1
         {
             InitializeComponent();
 
-            this.Text = "Прыгающий шарик";
+            this.Text = "jump ball";
             this.Size = new Size(1024, 750);
             this.StartPosition = FormStartPosition.CenterScreen;
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
